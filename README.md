@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
