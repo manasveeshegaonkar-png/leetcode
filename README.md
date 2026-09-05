@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1470-shuffle-the-array) |
@@ -36,5 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
