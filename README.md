@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
