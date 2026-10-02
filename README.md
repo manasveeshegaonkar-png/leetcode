@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1470-shuffle-the-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0680-valid-palindrome-ii) |
