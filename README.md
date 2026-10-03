@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
 |  |
