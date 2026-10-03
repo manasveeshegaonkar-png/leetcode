@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1436-destination-city) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1436-destination-city](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
