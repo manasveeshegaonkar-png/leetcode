@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
@@ -189,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
