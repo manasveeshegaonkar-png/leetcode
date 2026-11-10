@@ -1,48 +1,40 @@
 class Solution {
 public:
-    bool backspaceCompare(string s, string t) {
-           int i = s.size() - 1;
-        int j = t.size() - 1;
+    string process(string s) {
+        stack<char> st;
 
-        while (i >= 0 || j >= 0) {
-            i = getNextValidIndex(s, i);
-            j = getNextValidIndex(t, j);
+        for(int i = 0; i < s.length(); i++) {
 
-            if (i >= 0 && j >= 0) {
-                if (s[i] != t[j]) {
-                    return false;
+            if(s[i] == '#') {
+
+                if(!st.empty()) {
+                    st.pop();
                 }
-            } else {
-                // One string has characters left,
-                // but the other does not.
-                if (i >= 0 || j >= 0) {
-                    return false;
-                }
+
             }
-
-            i--;
-            j--;
+            else {
+                st.push(s[i]);
+            }
         }
 
-        return true;
+        // Convert stack into string
+        string result = "";
+
+        while(!st.empty()) {
+            result += st.top();
+            st.pop();
+        }
+
+        reverse(result.begin(), result.end());
+
+        return result;
     }
 
-private:
-    int getNextValidIndex(string& s, int index) {
-        int backspaces = 0;
+    bool backspaceCompare(string s, string t) {
 
-        while (index >= 0) {
-            if (s[index] == '#') {
-                backspaces++;
-            } else if (backspaces > 0) {
-                backspaces--;
-            } else {
-                break;
-            }
+        string a = process(s);
+        string b = process(t);
 
-            index--;
-        }
-
-        return index;
+        return a == b;
     }
 };
