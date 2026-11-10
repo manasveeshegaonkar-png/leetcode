@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
