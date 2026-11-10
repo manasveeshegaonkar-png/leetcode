@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1528-shuffle-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
