@@ -1,19 +1,20 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int n=nums.size();
-        //if target should come before 1st element
-        if(nums[0]>=target){
-            return 0;
-        }
-        //find position between two elements
-        for(int i=0;i<n-1;i++){
-            if(nums[i]<target  && nums[i+1]>=target){
-                return i+1;
+        int low=0;
+        int high=nums.size()-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(nums[mid]==target){
+                return mid;
+            }
+            else if(nums[mid]<target){
+                low=mid+1;//search right half
+            }
+            else{
+                high=mid-1;//search left half
             }
         }
-        //target is greater than all elements
-        return n;
-     }
-    
+        return low;//correct insertion position
+    }
 };
