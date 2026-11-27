@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2233-maximum-product-after-k-increments](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3925-concatenate-array-with-reverse](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0881-boats-to-save-people) |
+| [2233-maximum-product-after-k-increments](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 ## Linked List
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1046-last-stone-weight) |
+| [2233-maximum-product-after-k-increments](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Data Stream
 |  |
