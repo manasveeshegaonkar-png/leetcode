@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2233-maximum-product-after-k-increments](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Data Stream
