@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0881-boats-to-save-people) |
 | [2233-maximum-product-after-k-increments](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 ## Linked List
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0509-fibonacci-number) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Timsort
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manasveeshegaonkar-png/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
